@@ -1,6 +1,8 @@
 # jupyter_ai_bedrock
 how to configure Amazon Bedrock and Amazon SageMaker Endpoint in Jupyter AI
 
+[demo notebook file](https://github.com/shenshaoyong/jupyter_ai_bedrock/blob/main/Jupyter_ai_demo_amazon_bedrock_sagemaker.ipynb)
+
 # Setting of Jupyter AI + Bedrock(on Mac)
 ```
 #1. Open terminal, install bedrock specific version boto3 SDK,langchain
